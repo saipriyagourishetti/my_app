@@ -3,6 +3,6 @@ Full Stack Website for your Restaurant
 
 ## Deployed app
 https://atri-apps.github.io/restaurant_website
-
+http://localhost:4002/
 atri start
 ```
